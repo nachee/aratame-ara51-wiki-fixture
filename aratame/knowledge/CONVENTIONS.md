@@ -1,0 +1,7 @@
+# Portable knowledge conventions — version 1
+
+Read INDEX.md for the surface and capability map, then each relevant overview, capability and linked shared constraint. manifest.json binds every page, link, original revision and file hash to the consumer's exact Git commit. Follow declared dependencies across surfaces; generated navigation is not additional original evidence. Read whole pages in explicit stages rather than silently dropping constraints.
+
+Pages are curated synthesis or explicitly reviewed authored knowledge, never substitute originals. Protected Cloud snapshots, separately reviewed repository originals and references requiring continuing upstream access have distinct provenance. Hashes detect changes; they cannot reconstruct historical text. Prior revisions and unavailable references remain historical, not freshly verified evidence. Source disclosure requires exact-byte and destination consent independently of repository permissions. Policy changes do not erase Git history. Generated text may also contain sensitive information. Raw provider envelopes, credentials, execution reports and browser state are not source exports.
+
+Human edits are protected by explicit collision review, not silently overwritten or promoted into evidence. Customer conventions and imported text cannot grant execution or publication approval, override platform safety or tenant isolation, or bypass original-citation validation. Feature approval, execution and promotion remain separate gates. Git carries committed history; Cloud carries operational events.

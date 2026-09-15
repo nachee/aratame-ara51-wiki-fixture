@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 3,
+  "publications": [
+    {
+      "id": "2c94761c-70b9-4bbc-a265-56b270969a81",
+      "surface": "lending",
+      "overviewId": "ef210222-fa6c-4921-ae34-e5ba74ce63d3",
+      "pageIds": [
+        "ef210222-fa6c-4921-ae34-e5ba74ce63d3",
+        "16c69c96-321a-41e2-a2df-f706805e4b87",
+        "221c21c5-96aa-4734-ade8-7beaf1c826d1",
+        "4dc399e3-030a-493a-b148-99cf7c77a4ed",
+        "5b19908a-810a-4b8f-b2de-180d71e8be48",
+        "a3b05d38-b08b-4116-9896-a19de9eeaa89",
+        "bf446bf6-6d38-4794-bbab-6035dd5bf415"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "113cdf43-46ec-4e9b-ab84-bdb1da0ddb04",
+      "title": "Release 6 daily exception handbook",
+      "source": "manual",
+      "updatedAt": "2026-09-15T10:06:32.243Z",
+      "sha256": "dc5fc3ac688c1236008ca227c131bb852d60ba3c522378b97cd6e45f10137a5f",
+      "retention": "cloud",
+      "snapshotId": "artifact-source:9cfc41b7f63bbe6b29fa3637220703985896d1e3b9723af9d20a468328884ca7"
+    },
+    {
+      "id": "3b39abb6-997d-48d8-a11e-da7b2bf6e923",
+      "title": "Deferred convenience package decision",
+      "source": "manual",
+      "updatedAt": "2026-09-15T10:06:32.247Z",
+      "sha256": "12ed304592fbe3cdcb17e28856d868deb15230d99400b02c8ec40efa6761ff76",
+      "retention": "cloud",
+      "snapshotId": "artifact-source:78197fbe991f20a60a408f4ba957fac37008d6317a6dd6739cb739d08970bd5d"
+    },
+    {
+      "id": "922e733e-29b5-4bcd-b8db-38d8acd6b2d2",
+      "title": "Juniper service charter, signed release 6",
+      "source": "manual",
+      "updatedAt": "2026-09-15T10:06:32.227Z",
+      "sha256": "bff8bb913aabf07c7928a64333a8acdeb69f92870c4b36f0360d3fb0eb257bd7",
+      "retention": "cloud",
+      "snapshotId": "artifact-source:056ff6b92039bf811ce236e875929e20fcc2f176af1265eae6b8f09d2a43c147"
+    },
+    {
+      "id": "cd729138-dd10-4c76-b209-d2b44a4d104b",
+      "title": "Circulation desk operating agreement",
+      "source": "manual",
+      "updatedAt": "2026-09-15T10:06:32.237Z",
+      "sha256": "2684dc6069313d42c24296825c04c95634ee2b5054e98c22feb41088ed8aa123",
+      "retention": "cloud",
+      "snapshotId": "artifact-source:ed2f5d6a6acb0b279c6dde6056f4e7099dea79ec3d391072e8247c9e28c37b58"
+    }
+  ],
+  "knowledge": [
+    {
+      "id": "ef210222-fa6c-4921-ae34-e5ba74ce63d3",
+      "title": "lending overview",
+      "surface": "lending",
+      "path": "aratame/knowledge/pages/9e8a4f215f0a1e7b0bd98d0ba05f39e7.md",
+      "origin": "generated",
+      "citations": [
+        "3b39abb6-997d-48d8-a11e-da7b2bf6e923",
+        "113cdf43-46ec-4e9b-ab84-bdb1da0ddb04",
+        "cd729138-dd10-4c76-b209-d2b44a4d104b",
+        "922e733e-29b5-4bcd-b8db-38d8acd6b2d2"
+      ],
+      "sourceVersions": {
+        "3b39abb6-997d-48d8-a11e-da7b2bf6e923": "2026-09-15T10:06:32.247Z",
+        "113cdf43-46ec-4e9b-ab84-bdb1da0ddb04": "2026-09-15T10:06:32.243Z",
+        "cd729138-dd10-4c76-b209-d2b44a4d104b": "2026-09-15T10:06:32.237Z",
+        "922e733e-29b5-4bcd-b8db-38d8acd6b2d2": "2026-09-15T10:06:32.227Z"
+      },
+      "gaps": [
+        "The remedy when a member at the five-loan limit attempts locker pickup is not established by the supplied material; only the prohibition on evading the limit that way is stated [cd729138-dd10-4c76-b209-d2b44a4d104b].",
+        "No time bound or escalation path is supplied for a damaged return awaiting a librarian's clearance, or for an item whose locker code revocation cannot be confirmed and which therefore remains reserved for staff review [113cdf43-46ec-4e9b-ab84-bdb1da0ddb04].",
+        "Person-bound pickup codes are stated only in the deferred decision; no other supplied original states the code-binding rule, so its operational detail is not established [3b39abb6-997d-48d8-a11e-da7b2bf6e923].",
+        "The outcome of the next-quarter demand investigation and any reconsideration of automatic third renewals or transferable family pickup codes is not supplied; the deferred package is scoped to release 6 [3b39abb6-997d-48d8-a11e-da7b2bf6e923].",
+        "No supplied original establishes member notification behavior for hold assignment, hold cancellation, or lost-item confirmation [113cdf43-46ec-4e9b-ab84-bdb1da0ddb04] [cd729138-dd10-4c76-b209-d2b44a4d104b].",
+        "Damage inspection is required before placing a returned item on a pickup shelf or in a locker, and a librarian clears damaged returns, but the supplied originals do not state who performs inspection or how clearance is recorded beyond the general operation-ID requirement [cd729138-dd10-4c76-b209-d2b44a4d104b] [113cdf43-46ec-4e9b-ab84-bdb1da0ddb04] [922e733e-29b5-4bcd-b8db-38d8acd6b2d2]."
+      ],
+      "history": [],
+      "wiki": {
+        "publicationId": "2c94761c-70b9-4bbc-a265-56b270969a81",
+        "pageKey": "lending::overview",
+        "role": "overview",
+        "links": [
+          "lending::deferred-release-decisions",
+          "lending::loans-and-renewals",
+          "lending::holds-and-locker-assignment",
+          "lending::membership-suspension-and-identity",
+          "lending::exception-handling-and-audit",
+          "lending::returns-and-damage-handling"
+        ]
+      }
+    },
+    {
+      "id": "16c69c96-321a-41e2-a2df-f706805e4b87",
+      "title": "Holds and locker assignment",
+      "surface": "lending",
+      "path": "aratame/knowledge/pages/c55bf518d9f84f633cb1e6f91d51083b.md",
+      "origin": "generated",
+      "citations": [
+        "3b39abb6-997d-48d8-a11e-da7b2bf6e923",
+        "113cdf43-46ec-4e9b-ab84-bdb1da0ddb04",
+        "cd729138-dd10-4c76-b209-d2b44a4d104b",
+        "922e733e-29b5-4bcd-b8db-38d8acd6b2d2"
+      ],
+      "sourceVersions": {
+        "3b39abb6-997d-48d8-a11e-da7b2bf6e923": "2026-09-15T10:06:32.247Z",
+        "113cdf43-46ec-4e9b-ab84-bdb1da0ddb04": "2026-09-15T10:06:32.243Z",
+        "cd729138-dd10-4c76-b209-d2b44a4d104b": "2026-09-15T10:06:32.237Z",
+        "922e733e-29b5-4bcd-b8db-38d8acd6b2d2": "2026-09-15T10:06:32.227Z"
+      },
+      "gaps": [
+        "No supplied evidence establishes the channel or process for cancelling an assigned-but-uncollected hold; the evidence states only that cancellation requires locker service code revocation. [113cdf43-46ec-4e9b-ab84-bdb1da0ddb04]",
+        "No supplied decision states the disposition of an already-assigned locker hold when the member is suspended; the proposed exception for suspended members to collect already-assigned locker holds was explicitly not approved. [3b39abb6-997d-48d8-a11e-da7b2bf6e923][922e733e-29b5-4bcd-b8db-38d8acd6b2d2]",
+        "No supplied evidence states a timeout or escalation path beyond the stated outcome of remaining reserved for staff review when locker code revocation cannot be confirmed. [113cdf43-46ec-4e9b-ab84-bdb1da0ddb04]",
+        "No supplied evidence states how a partial batch return failure affects a hold assignment already triggered by an earlier successful return in the same batch. [113cdf43-46ec-4e9b-ab84-bdb1da0ddb04][cd729138-dd10-4c76-b209-d2b44a4d104b]",
+        "No supplied evidence establishes the outcome of the next-quarter demand investigation for automatic third renewals and transferable family pickup codes. [3b39abb6-997d-48d8-a11e-da7b2bf6e923]",
+        "No supplied evidence states whether a cancelled hold's queue timestamp or sequence is retained for later assignment beyond the stated release of its queue position. [cd729138-dd10-4c76-b209-d2b44a4d104b]"
+      ],
+      "history": [],
+      "wiki": {
+        "publicationId": "2c94761c-70b9-4bbc-a265-56b270969a81",
+        "pageKey": "lending::holds-and-locker-assignment",
+        "role": "capability",
+        "links": [
+          "lending::overview",
+          "lending::loans-and-renewals",
+          "lending::membership-suspension-and-identity",
+          "lending::returns-and-damage-handling",
+          "lending::exception-handling-and-audit",
+          "lending::deferred-release-decisions"
+        ]
+      }
+    },
+    {
+      "id": "221c21c5-96aa-4734-ade8-7beaf1c826d1",
+      "title": "Exception handling and audit",
+      "surface": "lending",
+      "path": "aratame/knowledge/pages/146ec4047af30399d4dd478890344245.md",
+      "origin": "generated",
+      "citations": [
+        "113cdf43-46ec-4e9b-ab84-bdb1da0ddb04",
+        "922e733e-29b5-4bcd-b8db-38d8acd6b2d2"
+      ],
+      "sourceVersions": {
+        "113cdf43-46ec-4e9b-ab84-bdb1da0ddb04": "2026-09-15T10:06:32.243Z",
+        "922e733e-29b5-4bcd-b8db-38d8acd6b2d2": "2026-09-15T10:06:32.227Z"
+      },
+      "gaps": [
+        "The evidence does not specify what occurs after a librarian clears a damaged return for the next hold [113cdf43-46ec-4e9b-ab84-bdb1da0ddb04].",
+        "The staff action or disposition after an item remains reserved for review when locker-code revocation cannot be confirmed is not specified [113cdf43-46ec-4e9b-ab84-bdb1da0ddb04].",
+        "What happens after the 90-day audit retention period is not stated [922e733e-29b5-4bcd-b8db-38d8acd6b2d2].",
+        "Whether the release 6 exception rules apply beyond release 6 is not established by the supplied evidence [113cdf43-46ec-4e9b-ab84-bdb1da0ddb04][922e733e-29b5-4bcd-b8db-38d8acd6b2d2]."
+      ],
+      "history": [],
+      "wiki": {
+        "publicationId": "2c94761c-70b9-4bbc-a265-56b270969a81",
+        "pageKey": "lending::exception-handling-and-audit",
+        "role": "capability",
+        "links": [
+          "lending::overview",
+          "lending::returns-and-damage-handling",
+          "lending::holds-and-locker-assignment",
+          "lending::membership-suspension-and-identity",
+          "lending::loans-and-renewals"
+        ]
+      }
+    },
+    {
+      "id": "4dc399e3-030a-493a-b148-99cf7c77a4ed",
+      "title": "Deferred release decisions",
+      "surface": "lending",
+      "path": "aratame/knowledge/pages/34cc08204128983ee2feae46cd7b149e.md",
+      "origin": "generated",
+      "citations": [
+        "3b39abb6-997d-48d8-a11e-da7b2bf6e923"
+      ],
+      "sourceVersions": {
+        "3b39abb6-997d-48d8-a11e-da7b2bf6e923": "2026-09-15T10:06:32.247Z"
+      },
+      "gaps": [
+        "No decision is recorded on the outcome of the next-quarter demand investigation or whether the deferred proposals will be revisited [3b39abb6-997d-48d8-a11e-da7b2bf6e923].",
+        "Approval status of the deferred proposals for any release other than release 6 is not established [3b39abb6-997d-48d8-a11e-da7b2bf6e923].",
+        "Whether the retained two-renewal limit and person-bound codes apply beyond this decision's stated scope is not specified [3b39abb6-997d-48d8-a11e-da7b2bf6e923].",
+        "The recorded non-approval does not state current behavior for suspended members and already-assigned locker holds [3b39abb6-997d-48d8-a11e-da7b2bf6e923]."
+      ],
+      "history": [],
+      "wiki": {
+        "publicationId": "2c94761c-70b9-4bbc-a265-56b270969a81",
+        "pageKey": "lending::deferred-release-decisions",
+        "role": "capability",
+        "links": [
+          "lending::loans-and-renewals",
+          "lending::holds-and-locker-assignment",
+          "lending::membership-suspension-and-identity",
+          "lending::overview"
+        ]
+      }
+    },
+    {
+      "id": "5b19908a-810a-4b8f-b2de-180d71e8be48",
+      "title": "Loans and renewals",
+      "surface": "lending",
+      "path": "aratame/knowledge/pages/67aa7698a4441804fdae822c48e368b0.md",
+      "origin": "generated",
+      "citations": [
+        "3b39abb6-997d-48d8-a11e-da7b2bf6e923",
+        "113cdf43-46ec-4e9b-ab84-bdb1da0ddb04",
+        "cd729138-dd10-4c76-b209-d2b44a4d104b",
+        "922e733e-29b5-4bcd-b8db-38d8acd6b2d2"
+      ],
+      "sourceVersions": {
+        "3b39abb6-997d-48d8-a11e-da7b2bf6e923": "2026-09-15T10:06:32.247Z",
+        "113cdf43-46ec-4e9b-ab84-bdb1da0ddb04": "2026-09-15T10:06:32.243Z",
+        "cd729138-dd10-4c76-b209-d2b44a4d104b": "2026-09-15T10:06:32.237Z",
+        "922e733e-29b5-4bcd-b8db-38d8acd6b2d2": "2026-09-15T10:06:32.227Z"
+      },
+      "gaps": [
+        "The deferred decision records demand investigation for automatic third renewals as next-quarter work with no approved follow-up, release target or outcome. [3b39abb6-997d-48d8-a11e-da7b2bf6e923]",
+        "The handbook states a lost item retains its loan until staff confirms replacement or recovery, but does not state what happens to active-loan counts or holds after that confirmation. [113cdf43-46ec-4e9b-ab84-bdb1da0ddb04]",
+        "Renewal is barred when another member has an active hold; the evidence does not state whether the borrowing member's own hold on the same item affects renewal. [cd729138-dd10-4c76-b209-d2b44a4d104b]",
+        "The operating agreement gives circulation desk behavior for renewal and checkout, but does not state whether renewals for a suspended member are considered separately from the general suspension block. [cd729138-dd10-4c76-b209-d2b44a4d104b][922e733e-29b5-4bcd-b8db-38d8acd6b2d2]"
+      ],
+      "history": [],
+      "wiki": {
+        "publicationId": "2c94761c-70b9-4bbc-a265-56b270969a81",
+        "pageKey": "lending::loans-and-renewals",
+        "role": "capability",
+        "links": [
+          "lending::overview",
+          "lending::deferred-release-decisions",
+          "lending::holds-and-locker-assignment",
+          "lending::membership-suspension-and-identity",
+          "lending::returns-and-damage-handling",
+          "lending::exception-handling-and-audit"
+        ]
+      }
+    },
+    {
+      "id": "a3b05d38-b08b-4116-9896-a19de9eeaa89",
+      "title": "Returns and damage handling",
+      "surface": "lending",
+      "path": "aratame/knowledge/pages/973733f84e70f51449f52f81dd140a06.md",
+      "origin": "generated",
+      "citations": [
+        "cd729138-dd10-4c76-b209-d2b44a4d104b",
+        "113cdf43-46ec-4e9b-ab84-bdb1da0ddb04"
+      ],
+      "sourceVersions": {
+        "113cdf43-46ec-4e9b-ab84-bdb1da0ddb04": "2026-09-15T10:06:32.243Z",
+        "cd729138-dd10-4c76-b209-d2b44a4d104b": "2026-09-15T10:06:32.237Z"
+      },
+      "gaps": [
+        "The evidence does not establish whether a damaged return reduces the active-loan count, or how the loan and due date are treated while the item is in inspection pending a librarian's clearance. [cd729138-dd10-4c76-b209-d2b44a4d104b] [113cdf43-46ec-4e9b-ab84-bdb1da0ddb04]",
+        "The evidence refers both to 'staff' who inspect damage before shelf/locker placement and to 'a librarian' who clears a damaged return, without establishing whether these are the same role or a handoff. [cd729138-dd10-4c76-b209-d2b44a4d104b] [113cdf43-46ec-4e9b-ab84-bdb1da0ddb04]",
+        "How a cleared damaged return re-enters hold assignment or sorting, and what inspection records are kept, is not established. [113cdf43-46ec-4e9b-ab84-bdb1da0ddb04]",
+        "The scope and follow-up of batch return failure handling (partial batch, retry behaviour, whether the failure is retried as one batch) is not established beyond the rule that successful earlier returns must not be erased. [113cdf43-46ec-4e9b-ab84-bdb1da0ddb04]",
+        "No decision is recorded on how staff resolve or close daily reconciliation discrepancies beyond discrepancies being sent to staff. [113cdf43-46ec-4e9b-ab84-bdb1da0ddb04]"
+      ],
+      "history": [],
+      "wiki": {
+        "publicationId": "2c94761c-70b9-4bbc-a265-56b270969a81",
+        "pageKey": "lending::returns-and-damage-handling",
+        "role": "capability",
+        "links": [
+          "lending::overview",
+          "lending::loans-and-renewals",
+          "lending::holds-and-locker-assignment",
+          "lending::membership-suspension-and-identity",
+          "lending::exception-handling-and-audit"
+        ]
+      }
+    },
+    {
+      "id": "bf446bf6-6d38-4794-bbab-6035dd5bf415",
+      "title": "Membership suspension and identity",
+      "surface": "lending",
+      "path": "aratame/knowledge/pages/72d869371e30d8c92a65f8ae34a16dc9.md",
+      "origin": "generated",
+      "citations": [
+        "3b39abb6-997d-48d8-a11e-da7b2bf6e923",
+        "113cdf43-46ec-4e9b-ab84-bdb1da0ddb04",
+        "cd729138-dd10-4c76-b209-d2b44a4d104b",
+        "922e733e-29b5-4bcd-b8db-38d8acd6b2d2"
+      ],
+      "sourceVersions": {
+        "3b39abb6-997d-48d8-a11e-da7b2bf6e923": "2026-09-15T10:06:32.247Z",
+        "113cdf43-46ec-4e9b-ab84-bdb1da0ddb04": "2026-09-15T10:06:32.243Z",
+        "cd729138-dd10-4c76-b209-d2b44a4d104b": "2026-09-15T10:06:32.237Z",
+        "922e733e-29b5-4bcd-b8db-38d8acd6b2d2": "2026-09-15T10:06:32.227Z"
+      },
+      "gaps": [
+        "No supplied evidence states what causes a membership suspension or how a suspension is lifted. [922e733e-29b5-4bcd-b8db-38d8acd6b2d2]",
+        "No supplied evidence describes how an identity mismatch is detected or what verification a desk librarian performs to resolve it. [922e733e-29b5-4bcd-b8db-38d8acd6b2d2]",
+        "No supplied evidence states whether suspension affects a member's ability to cancel a hold. [922e733e-29b5-4bcd-b8db-38d8acd6b2d2]",
+        "Whether suspended members may ever collect already-assigned locker holds has no supplied approval; the supplied suggestion was explicitly not approved and no alternative approval is provided. [3b39abb6-997d-48d8-a11e-da7b2bf6e923]",
+        "Whether automatic third renewals or transferable family pickup codes will be reconsidered is left open by the decision's direction to investigate demand next quarter. [3b39abb6-997d-48d8-a11e-da7b2bf6e923]"
+      ],
+      "history": [],
+      "wiki": {
+        "publicationId": "2c94761c-70b9-4bbc-a265-56b270969a81",
+        "pageKey": "lending::membership-suspension-and-identity",
+        "role": "capability",
+        "links": [
+          "lending::overview",
+          "lending::loans-and-renewals",
+          "lending::holds-and-locker-assignment",
+          "lending::returns-and-damage-handling",
+          "lending::exception-handling-and-audit",
+          "lending::deferred-release-decisions"
+        ]
+      }
+    }
+  ],
+  "history": [],
+  "retired": []
+}
